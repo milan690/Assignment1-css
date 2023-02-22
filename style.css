@@ -1,0 +1,104 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+.intro > header{
+	background-image: url(./bgimage2.jpg);
+	height: 180px;
+}
+.intro > header > h1{
+	padding-top: 15px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 60px;
+	color: blue;
+	padding-left: 35%;
+}
+.intro > header > h2{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 35px;
+	color: red;
+	padding-left: 37%;
+}
+.page-wrapper{
+	background-image: url(./bgimage.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.preamble > h3{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+	font-size: 25px;
+}
+.explanation > h3{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+	font-size: 25px;
+}
+.participation > h3{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+	font-size: 25px;
+}
+.benefits > h3{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+	font-size: 25px;
+}
+.requirements > h3{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: black;
+	font-size: 25px;
+}
+.intro{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.main-supporting{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.summary > p{
+	font-size: 17px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.preamble > p{
+	font-size: 17px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.explanation > p{
+	font-size: 17px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.participation > p{
+	font-size: 17px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.benefits > p{
+	font-size: 17px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.requirements > p{
+	font-size: 17px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.wrapper{
+	padding-top: 25px;
+	padding-bottom: 10px;;
+	display: flex;
+}
+.design-selection{
+	width: 33%;
+	padding-left: 5%;
+	padding-right: 5%;
+
+}
+.design-archives{
+	width: 33%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.zen-resources{
+	width: 33%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
